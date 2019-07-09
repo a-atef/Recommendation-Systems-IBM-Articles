@@ -1,10 +1,10 @@
 # Recommendation-Systems-IBM-Articles
 In this project, I explored four recommendation systems to on real data from the IBM Watson Studio platform:
 
-1- Rank Based Recommendation.
-2- User-User Based Collaborative Filtering.
-3- Content Based Recommendations.
-4- Matrix Factorization. 
+- Rank Based Recommendation.
+- User-User Based Collaborative Filtering.
+- Content Based Recommendations.
+- Matrix Factorization. 
 
 # Packges
 - pandas
